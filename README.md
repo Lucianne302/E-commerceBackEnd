@@ -48,4 +48,6 @@ GitHub Username: Lucianne302
 GitHub Profile Link: git@github.com:Lucianne302/E-commerceBackEnd.git
 
 ## Video:
+Part 1: https://drive.google.com/file/d/1-Vikm2_GYZflSWhqxUMlc4ePOiWKUyX1/view 
+Part 2: https://drive.google.com/file/d/14hVt7nHJpziprVA_gd6s0Rlx2VoQU5wy/view 
 
