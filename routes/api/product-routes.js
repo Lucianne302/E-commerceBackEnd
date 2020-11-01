@@ -10,7 +10,7 @@ router.get('/', (req, res) => {
   console.log('=======');
   // find all products
   Product.findAll({
-    order: ['created_at', 'DESC'],
+    order: [['id', 'DESC']],
     attributes: [
       'id',
       'product_name',
