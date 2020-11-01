@@ -21,20 +21,21 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Installation
 
 ## Credits
-Collaborator: Tutor, Stuart Fraser, TAs: George and help from classmates. 
+Collaborator: Tutor, Stuart Fraser, TAs: George and help from classmates and study group with Britt and Curtis. 
 
 ## Resources/links:
 
 Module 13
+sequelize Model Basics, https://sequelize.org/master/manual/model-basics.html  
+sequelize basics, https://sequelize.org/v5/manual/querying.html#basics 
+sequelize getting started, https://sequelize.org/v5/manual/getting-started.html
+sequelize doc's, https://www.npmjs.com/package/sequelize
+dotenv , https://www.npmjs.com/package/dotenv 
+SQL DEFAULT Constraint, W3Schools, https://www.w3schools.com/sql/sql_default.asp 
 npm inquirer package, https://www.npmjs.com/package/inquirer
 mySQL2, https://www.npmjs.com/package/mysql2
-npm console.table package, https://www.npmjs.com/package/console.table
 Node.js mySQL Where, https://www.w3schools.com/nodejs/nodejs_mysql_where.asp
-String.prototype.split(), https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
-try...catch, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch
-JavaScript String substring() Method, https://www.w3schools.com/jsref/jsref_substring.asp
-Array.prototype.values(), https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/values
-Expected linebreaks to be 'LF' but found 'CRLF' linebreak-style, https://stackoverflow.com/questions/37826449/expected-linebreaks-to-be-lf-but-found-crlf-linebreak-style#:~:text=If%20you%20want%20it%20in,Line%20is%20set%20to%20crlf.
+
 
 ## Contributors
 undefined
